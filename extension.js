@@ -118,6 +118,7 @@ function activate(context) {
 
 /**
  * Find all .md files, parse [[wikilinks]], build nodes + edges.
+ */
 async function collectGraphData(webview = null) {
   const workspaceFolders = vscode.workspace.workspaceFolders;
   if (!workspaceFolders) return { nodes: [], edges: [] };
@@ -170,7 +171,7 @@ async function collectGraphData(webview = null) {
     fileMeta[rel] = { basename: base, frontmatter: fm, links, path: rel };
   }
 
-  // Build bidirectional dataDic)
+  // Build bidirectional dataDic
   for (const [relPath, meta] of Object.entries(fileMeta)) {
     for (const link of meta.links) {
       // Try exact relative path match first, then basename match
