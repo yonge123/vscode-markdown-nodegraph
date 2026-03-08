@@ -1,0 +1,37 @@
+{
+  "name": "markdown-nodegraph-view",
+  "displayName": "Markdown NodeGraph View",
+  "description": "Interactive node graph visualization of your workspace — click nodes to open files, filter by name, customize via settings.",
+  "version": "1.0.0",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Visualization", "Other"],
+  "activationEvents": ["onCommand:nodegraph.open"],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "nodegraph.open",
+        "title": "Open Node Graph View",
+        "icon": "$(type-hierarchy)"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "nodegraph.open",
+          "group": "navigation"
+        }
+      ]
+    },
+    "keybindings": [
+      {
+        "command": "nodegraph.open",
+        "key": "ctrl+shift+g",
+        "mac": "cmd+shift+g"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0"
+  }
+}
