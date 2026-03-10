@@ -2,8 +2,9 @@
   "name": "markdown-nodegraph-view",
   "displayName": "Markdown NodeGraph View",
   "description": "Interactive node graph visualization of your workspace — click nodes to open files, filter by name, customize via settings.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "bluebird1111",
+  "icon": "src/nodegraph_icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/yonge123/vscode-markdown-nodegraph"
