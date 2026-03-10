@@ -2,7 +2,7 @@
   "name": "markdown-nodegraph-view",
   "displayName": "Markdown NodeGraph View",
   "description": "Interactive node graph visualization of your workspace — click nodes to open files, filter by name, customize via settings.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bluebird1111",
   "repository": {
     "type": "git",

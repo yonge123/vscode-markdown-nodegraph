@@ -1,0 +1,9 @@
+<!-- Created with PixiEditor (https://pixieditor.net) -->
+<svg version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="100" cy="100.00000000000004" rx="100" ry="99.99999999999996" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#272422" fill-opacity="1" stroke="#fd7056" stroke-width="0" opacity="1" id="Ellipse" />
+  <path d="M52.5163 107.696L52.5163 88.3322L147.868 88.3322L147.868 107.696" fill-rule="nonzero" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#ffffff" fill-opacity="0" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1" id="New layer 1" />
+  <path d="M100.192 83.8322L100.192 68.6958" fill-rule="nonzero" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#ffffff" fill-opacity="0" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1" id="New layer 1" />
+  <ellipse cx="147.8675079345703" cy="135.6383171081543" rx="28.03375244140625" ry="28.033740997314453" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#ffffff" fill-opacity="0" stroke="#fdfdfd" stroke-width="18" opacity="1" id="Ellipse" />
+  <ellipse cx="52.516258239746094" cy="136.03832244873047" rx="28.03375244140625" ry="28.033729553222656" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#ffffff" fill-opacity="0" stroke="#f9f9f9" stroke-width="18" opacity="1" id="Ellipse" />
+  <ellipse cx="99.99999618530273" cy="39.361650466918945" rx="28.033756256103516" ry="28.033742904663086" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#ffffff" fill-opacity="0" stroke="#fdfdfd" stroke-width="18" opacity="1" id="Ellipse" />
+</svg>

@@ -9,13 +9,10 @@ You can visualize the workspace markdown node graph with this extension on VSCod
 
 ## Example
 
-<p align="center">
-<a>
-<img alt="image001.png" src="https://github.com/yonge123/vscode-markdown-nodegraph/blob/master/src/image001.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
-</a>
+![](./src/image001.png)
+
 
 ## [Youtubte Link](https://youtu.be/zyj5xpqXqIY)
-
 
 
 ## Features
